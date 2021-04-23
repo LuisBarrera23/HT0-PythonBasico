@@ -30,5 +30,9 @@ while not (genero=='M' or genero=='F'):
     genero=str(input("Ingresa tu genero: M para masculino y F para femenino").upper())
 
 asigargrupo(nombre,genero)
+<<<<<<< HEAD
 
 # prueba
+=======
+#hola
+>>>>>>> 0fdeb5fcd15469b55e487479d3fe4808dfd79fa4
